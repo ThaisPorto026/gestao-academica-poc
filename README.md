@@ -12,7 +12,7 @@ Professor: **Anderson Clayton**
 | Jamile Marques Lima | `@usuario` |
 | Julia Assis Miguel | `@usuario` |
 | Renan Rodrigues de Almeida | `@usuario` |
-| Thais Aparecida Porto | `@usuario` |
+| Thais Aparecida Porto | [@ThaisPorto026](https://github.com/ThaisPorto026) |
 | Yasmin Oliveira Dantas | `@usuario` |
 
 ## Sobre o projeto
@@ -99,7 +99,7 @@ gestao-academica-poc/
 ### 2. Baixar o projeto
 
 ```bash
-git clone https://github.com/USUARIO/gestao-academica-poc.git
+git clone https://github.com/ThaisPorto026/gestao-academica-poc.git
 cd gestao-academica-poc/backend
 ```
 
